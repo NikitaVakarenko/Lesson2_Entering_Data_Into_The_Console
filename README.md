@@ -1,4 +1,4 @@
-# Lesson 2: Entering Data Into The Console
+# C# Lesson 2: Entering Data Into The Console
 
 
 This repository contains a basic C# console application that demonstrates how to read user input from the console and display it back to the user.
